@@ -1,0 +1,14 @@
+C:\Users\memos\OneDrive\Masaüstü\donguler-ornek2\donguler-ornek2\bin\Debug\net8.0\donguler-ornek2.exe
+C:\Users\memos\OneDrive\Masaüstü\donguler-ornek2\donguler-ornek2\bin\Debug\net8.0\donguler-ornek2.deps.json
+C:\Users\memos\OneDrive\Masaüstü\donguler-ornek2\donguler-ornek2\bin\Debug\net8.0\donguler-ornek2.runtimeconfig.json
+C:\Users\memos\OneDrive\Masaüstü\donguler-ornek2\donguler-ornek2\bin\Debug\net8.0\donguler-ornek2.dll
+C:\Users\memos\OneDrive\Masaüstü\donguler-ornek2\donguler-ornek2\bin\Debug\net8.0\donguler-ornek2.pdb
+C:\Users\memos\OneDrive\Masaüstü\donguler-ornek2\donguler-ornek2\obj\Debug\net8.0\donguler-ornek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memos\OneDrive\Masaüstü\donguler-ornek2\donguler-ornek2\obj\Debug\net8.0\donguler-ornek2.AssemblyInfoInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\donguler-ornek2\donguler-ornek2\obj\Debug\net8.0\donguler-ornek2.AssemblyInfo.cs
+C:\Users\memos\OneDrive\Masaüstü\donguler-ornek2\donguler-ornek2\obj\Debug\net8.0\donguler-ornek2.csproj.CoreCompileInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\donguler-ornek2\donguler-ornek2\obj\Debug\net8.0\donguler-ornek2.dll
+C:\Users\memos\OneDrive\Masaüstü\donguler-ornek2\donguler-ornek2\obj\Debug\net8.0\refint\donguler-ornek2.dll
+C:\Users\memos\OneDrive\Masaüstü\donguler-ornek2\donguler-ornek2\obj\Debug\net8.0\donguler-ornek2.pdb
+C:\Users\memos\OneDrive\Masaüstü\donguler-ornek2\donguler-ornek2\obj\Debug\net8.0\donguler-ornek2.genruntimeconfig.cache
+C:\Users\memos\OneDrive\Masaüstü\donguler-ornek2\donguler-ornek2\obj\Debug\net8.0\ref\donguler-ornek2.dll
