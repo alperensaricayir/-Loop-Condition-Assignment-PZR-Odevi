@@ -1,0 +1,14 @@
+C:\Users\memos\OneDrive\Masaüstü\maas-hesaplamasi\maas-hesaplamasi\bin\Debug\net8.0\maas-hesaplamasi.exe
+C:\Users\memos\OneDrive\Masaüstü\maas-hesaplamasi\maas-hesaplamasi\bin\Debug\net8.0\maas-hesaplamasi.deps.json
+C:\Users\memos\OneDrive\Masaüstü\maas-hesaplamasi\maas-hesaplamasi\bin\Debug\net8.0\maas-hesaplamasi.runtimeconfig.json
+C:\Users\memos\OneDrive\Masaüstü\maas-hesaplamasi\maas-hesaplamasi\bin\Debug\net8.0\maas-hesaplamasi.dll
+C:\Users\memos\OneDrive\Masaüstü\maas-hesaplamasi\maas-hesaplamasi\bin\Debug\net8.0\maas-hesaplamasi.pdb
+C:\Users\memos\OneDrive\Masaüstü\maas-hesaplamasi\maas-hesaplamasi\obj\Debug\net8.0\maas-hesaplamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memos\OneDrive\Masaüstü\maas-hesaplamasi\maas-hesaplamasi\obj\Debug\net8.0\maas-hesaplamasi.AssemblyInfoInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\maas-hesaplamasi\maas-hesaplamasi\obj\Debug\net8.0\maas-hesaplamasi.AssemblyInfo.cs
+C:\Users\memos\OneDrive\Masaüstü\maas-hesaplamasi\maas-hesaplamasi\obj\Debug\net8.0\maas-hesaplamasi.csproj.CoreCompileInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\maas-hesaplamasi\maas-hesaplamasi\obj\Debug\net8.0\maas-hesaplamasi.dll
+C:\Users\memos\OneDrive\Masaüstü\maas-hesaplamasi\maas-hesaplamasi\obj\Debug\net8.0\refint\maas-hesaplamasi.dll
+C:\Users\memos\OneDrive\Masaüstü\maas-hesaplamasi\maas-hesaplamasi\obj\Debug\net8.0\maas-hesaplamasi.pdb
+C:\Users\memos\OneDrive\Masaüstü\maas-hesaplamasi\maas-hesaplamasi\obj\Debug\net8.0\maas-hesaplamasi.genruntimeconfig.cache
+C:\Users\memos\OneDrive\Masaüstü\maas-hesaplamasi\maas-hesaplamasi\obj\Debug\net8.0\ref\maas-hesaplamasi.dll

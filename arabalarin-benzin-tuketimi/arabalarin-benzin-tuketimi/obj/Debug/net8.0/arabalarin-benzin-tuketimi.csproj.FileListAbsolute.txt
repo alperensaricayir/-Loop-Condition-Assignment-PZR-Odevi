@@ -1,0 +1,14 @@
+C:\Users\memos\OneDrive\Masaüstü\arabalarin-benzin-tuketimi\arabalarin-benzin-tuketimi\bin\Debug\net8.0\arabalarin-benzin-tuketimi.exe
+C:\Users\memos\OneDrive\Masaüstü\arabalarin-benzin-tuketimi\arabalarin-benzin-tuketimi\bin\Debug\net8.0\arabalarin-benzin-tuketimi.deps.json
+C:\Users\memos\OneDrive\Masaüstü\arabalarin-benzin-tuketimi\arabalarin-benzin-tuketimi\bin\Debug\net8.0\arabalarin-benzin-tuketimi.runtimeconfig.json
+C:\Users\memos\OneDrive\Masaüstü\arabalarin-benzin-tuketimi\arabalarin-benzin-tuketimi\bin\Debug\net8.0\arabalarin-benzin-tuketimi.dll
+C:\Users\memos\OneDrive\Masaüstü\arabalarin-benzin-tuketimi\arabalarin-benzin-tuketimi\bin\Debug\net8.0\arabalarin-benzin-tuketimi.pdb
+C:\Users\memos\OneDrive\Masaüstü\arabalarin-benzin-tuketimi\arabalarin-benzin-tuketimi\obj\Debug\net8.0\arabalarin-benzin-tuketimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memos\OneDrive\Masaüstü\arabalarin-benzin-tuketimi\arabalarin-benzin-tuketimi\obj\Debug\net8.0\arabalarin-benzin-tuketimi.AssemblyInfoInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\arabalarin-benzin-tuketimi\arabalarin-benzin-tuketimi\obj\Debug\net8.0\arabalarin-benzin-tuketimi.AssemblyInfo.cs
+C:\Users\memos\OneDrive\Masaüstü\arabalarin-benzin-tuketimi\arabalarin-benzin-tuketimi\obj\Debug\net8.0\arabalarin-benzin-tuketimi.csproj.CoreCompileInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\arabalarin-benzin-tuketimi\arabalarin-benzin-tuketimi\obj\Debug\net8.0\arabalarin-benzin-tuketimi.dll
+C:\Users\memos\OneDrive\Masaüstü\arabalarin-benzin-tuketimi\arabalarin-benzin-tuketimi\obj\Debug\net8.0\refint\arabalarin-benzin-tuketimi.dll
+C:\Users\memos\OneDrive\Masaüstü\arabalarin-benzin-tuketimi\arabalarin-benzin-tuketimi\obj\Debug\net8.0\arabalarin-benzin-tuketimi.pdb
+C:\Users\memos\OneDrive\Masaüstü\arabalarin-benzin-tuketimi\arabalarin-benzin-tuketimi\obj\Debug\net8.0\arabalarin-benzin-tuketimi.genruntimeconfig.cache
+C:\Users\memos\OneDrive\Masaüstü\arabalarin-benzin-tuketimi\arabalarin-benzin-tuketimi\obj\Debug\net8.0\ref\arabalarin-benzin-tuketimi.dll

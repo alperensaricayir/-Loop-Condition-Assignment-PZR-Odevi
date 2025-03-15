@@ -1,0 +1,14 @@
+C:\Users\memos\OneDrive\Masaüstü\Araba-Yasi-Ve-Durumu\Araba-Yasi-Ve-Durumu\bin\Debug\net8.0\Araba-Yasi-Ve-Durumu.exe
+C:\Users\memos\OneDrive\Masaüstü\Araba-Yasi-Ve-Durumu\Araba-Yasi-Ve-Durumu\bin\Debug\net8.0\Araba-Yasi-Ve-Durumu.deps.json
+C:\Users\memos\OneDrive\Masaüstü\Araba-Yasi-Ve-Durumu\Araba-Yasi-Ve-Durumu\bin\Debug\net8.0\Araba-Yasi-Ve-Durumu.runtimeconfig.json
+C:\Users\memos\OneDrive\Masaüstü\Araba-Yasi-Ve-Durumu\Araba-Yasi-Ve-Durumu\bin\Debug\net8.0\Araba-Yasi-Ve-Durumu.dll
+C:\Users\memos\OneDrive\Masaüstü\Araba-Yasi-Ve-Durumu\Araba-Yasi-Ve-Durumu\bin\Debug\net8.0\Araba-Yasi-Ve-Durumu.pdb
+C:\Users\memos\OneDrive\Masaüstü\Araba-Yasi-Ve-Durumu\Araba-Yasi-Ve-Durumu\obj\Debug\net8.0\Araba-Yasi-Ve-Durumu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memos\OneDrive\Masaüstü\Araba-Yasi-Ve-Durumu\Araba-Yasi-Ve-Durumu\obj\Debug\net8.0\Araba-Yasi-Ve-Durumu.AssemblyInfoInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\Araba-Yasi-Ve-Durumu\Araba-Yasi-Ve-Durumu\obj\Debug\net8.0\Araba-Yasi-Ve-Durumu.AssemblyInfo.cs
+C:\Users\memos\OneDrive\Masaüstü\Araba-Yasi-Ve-Durumu\Araba-Yasi-Ve-Durumu\obj\Debug\net8.0\Araba-Yasi-Ve-Durumu.csproj.CoreCompileInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\Araba-Yasi-Ve-Durumu\Araba-Yasi-Ve-Durumu\obj\Debug\net8.0\Araba-Yasi-Ve-Durumu.dll
+C:\Users\memos\OneDrive\Masaüstü\Araba-Yasi-Ve-Durumu\Araba-Yasi-Ve-Durumu\obj\Debug\net8.0\refint\Araba-Yasi-Ve-Durumu.dll
+C:\Users\memos\OneDrive\Masaüstü\Araba-Yasi-Ve-Durumu\Araba-Yasi-Ve-Durumu\obj\Debug\net8.0\Araba-Yasi-Ve-Durumu.pdb
+C:\Users\memos\OneDrive\Masaüstü\Araba-Yasi-Ve-Durumu\Araba-Yasi-Ve-Durumu\obj\Debug\net8.0\Araba-Yasi-Ve-Durumu.genruntimeconfig.cache
+C:\Users\memos\OneDrive\Masaüstü\Araba-Yasi-Ve-Durumu\Araba-Yasi-Ve-Durumu\obj\Debug\net8.0\ref\Araba-Yasi-Ve-Durumu.dll
